@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Amir
-#### I'm a Composite Structural Engineer.
-![I'm a Composite Structural Engineer.](https://media-exp1.licdn.com/dms/image/C4D16AQEwaPjeCdm_FQ/profile-displaybackgroundimage-shrink_350_1400/0/1541419123210?e=1634774400&v=beta&t=fLUESRUu47TpgQq-tFzJpjPa_6bQzV6T05jXmV6Zh8w)
-
-I like developing codes on solid mechanics, composite analysis and numerical modeling. I usually use Matlab and Python and also like Maple for symbolic operations. Sometimes I upload short documentation on the theoretical material behind my code. You may find them in the report folder of each repository.
+I'm a Composite Structural Engineer. I like developing codes on solid mechanics, composite analysis and numerical modeling. I usually use Matlab and Python and also like Maple for symbolic operations. Sometimes I upload short documentation on the theoretical material behind my code. You may find them in the report folder of each repository.
 
 Skills: MATLAB / Python / Maple / C++
 
