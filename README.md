@@ -1,18 +1,14 @@
-### Hi there 👋, I'm Amir
-I'm a Composite Structural Engineer. I like developing codes on solid mechanics, composite analysis and numerical modeling. I usually use Matlab and Python and also like Maple for symbolic operations. Sometimes I upload short documentation on the theoretical material behind my code. You may find them in the *theory* folder in each repository.
-
-Skills: MATLAB / Python / Maple / C++
+# Hi there 👋, my name's Amir
+I'm a composite structural engineer. I like developing codes on solid mechanics, composite analysis and numerical modeling. I usually code in MATLAB and Python and use Maple for my symbolic operations. Sometimes I include short documentations on the thory behind my codes which you can find in *theory* folder of each repository.
 
 ## Coding Examples
-Example from CLTPLUS
+Example from CLTPLUS (a MATLAB code based on thin composite laminate theory)
 
 [<img src = "TH.gif" width = "500">](https://github.com/amirbaharvand66/CLTPLUS)
 
-Out-of-plane deformation of a rectangular section under torsion using two-dimensional elasticity for aspect ratios a/b=0.1..3
+Normalized out-of-plane deformation of a rectangular section under torsion using two-dimensional elasticity for various aspect ratios a/b=0.1..3 (a and b are the length and width of the rectangular section)
 
 [<img src = "rec_sec_torsion.gif" width = "500">](https://github.com/amirbaharvand66/linear_elasticity)
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amirbaharvand66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amirbaharvand66/)  
 
