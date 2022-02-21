@@ -6,7 +6,7 @@ Example from CLTPLUS (a MATLAB code based on thin composite laminate theory)
 
 [<img src = "TH.gif" width = "500">](https://github.com/amirbaharvand66/CLTPLUS)
 
-Normalized out-of-plane deformation of a rectangular section under torsion using two-dimensional elasticity for various aspect ratios a/b=0.1..3 (a and b are the length and width of the rectangular section)
+Normalized out-of-plane deformation of a rectangular section under torsion using two-dimensional elasticity for various aspect ratios *a/b*=0.1..3 (*a* and *b* are the length and width of the rectangular section)
 
 [<img src = "rec_sec_torsion.gif" width = "500">](https://github.com/amirbaharvand66/linear_elasticity)
 
